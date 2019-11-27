@@ -6,3 +6,4 @@ machine learning with scikit, pandas, and matplotlib
 I used it to shorten the time during testing runs.
 3) The folder 'snapshots' contains the pictures of the information of the datast and outputs of the code.
 4) The file 'Project_Alexey_Voropayev' is my final project file.
+5) The file 'crimeVan.py' is the code for the project
